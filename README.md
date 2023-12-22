@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 im currently workin on a web based file explorer<br>🌱 im currently learning nestJS<br>🤝 I’m looking for help with *<br>💬 Ask me about *
+🔭 im currently workin on a adb implementation in rust<br>🌱 im currently learning rust, webAssembly<br>🤝 I’m looking for help with *<br>💬 Ask me about *
 
 
 ## 🌐 Socials:
