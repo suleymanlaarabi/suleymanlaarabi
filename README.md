@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: EPITECH STUDENT
 🔭 I’m looking for help with *<br>💬 Ask me about *
 
 
