@@ -1,6 +1,6 @@
 # 💫 About Me: EPITECH STUDENT
 
-🔭 I’m looking for help with _<br>💬 Ask me about _
+🔭 I’m looking for help with *<br>💬 Ask me about *
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suleymanlaarabi&theme=dark&hide_border=false)<br/>
