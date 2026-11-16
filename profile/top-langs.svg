@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="220.15"
+          width="220.18"
           height="8"
           fill="#dea584"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="220.15"
+          x="220.18"
           y="0"
-          width="18.21"
+          width="18.19"
           height="8"
           fill="#555555"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.35"
+          x="238.37"
           y="0"
           width="16.18"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.54"
+          x="244.55"
           y="0"
           width="12.83"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.36"
+          x="247.37"
           y="0"
           width="11.39"
           height="8"
@@ -208,7 +208,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.75"
+          x="248.76"
           y="0"
           width="10.62"
           height="8"
@@ -220,7 +220,7 @@
           data-testid="lang-progress"
           x="249.38"
           y="0"
-          width="10.34"
+          width="10.33"
           height="8"
           fill="#3572A5"
         />
@@ -240,7 +240,7 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 88.06%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 88.07%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
